@@ -1,3 +1,6 @@
+You can check out the live version of the site by clicking the link below 
+https://countrylist-stats.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
